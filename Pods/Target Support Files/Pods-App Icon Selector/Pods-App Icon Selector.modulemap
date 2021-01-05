@@ -1,0 +1,6 @@
+framework module Pods_App_Icon_Selector {
+  umbrella header "Pods-App Icon Selector-umbrella.h"
+
+  export *
+  module * { export * }
+}
