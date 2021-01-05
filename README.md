@@ -1,4 +1,4 @@
-# Changing iOS App Icon programmatically using iOS 10.3+
+# 📱 Changing iOS App Icon programmatically using iOS 10.3+
 
 This simple app is to demonstrate how you can change an app icon using iOS 10.3+. The app uses a simple UITableView tapping into the delegate method tableView(_:didSelectRowAt:).
 
@@ -11,7 +11,7 @@ Changing your app icon provides users a nice bit of customisation, allowing them
 4. Update icon through UI using methods or by creating an app icon manager
 
 ## 📸 Screenshots
-
+![change-ios-app-icon-swift-xcode](https://user-images.githubusercontent.com/40464267/103650461-f967a380-4f57-11eb-8164-9e7ebe38c9d8.GIF)
 
 ## 🏃🏽‍♀️ How to get started 
 
